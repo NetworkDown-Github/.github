@@ -5,7 +5,7 @@ Welcome to the NetworkDown.info, We are a up and coming solution to network outa
 
 ## What is NetworkDown.info?
 
-NetworkDown.info is a service that allows you to monitor your network for outages and alerts you when your network is down. We are a free service that is currently in development.
+NetworkDown.info is a service that allows you to monitor your network for outages and alerts you when your network is down.
 We are looking for beta testers to help us test our service and provide feedback.
 Please feel free to contact us at [app.networkdown.info/signup](https://app.networkdown.info/signup), if you are interested in becoming a beta tester.
 
